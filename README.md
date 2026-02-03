@@ -22,5 +22,5 @@ Os projetos abaixo estão organizados em repositórios próprios:
 *(Em breve mais projetos!)*
 
 ## 📫 Contato
-- LinkedIn: (coloque o link depois)
+- LinkedIn: www.linkedin.com/in/vítor-noll-605033332
 - Email: vitornoll235@gmail.com
